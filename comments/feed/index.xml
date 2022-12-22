@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for IPHONE	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://www.iphone.day/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.iphone.day</link>
 	<description>TODAY IS IPHONE DAY</description>
 	<lastBuildDate>Wed, 21 Dec 2022 13:26:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
